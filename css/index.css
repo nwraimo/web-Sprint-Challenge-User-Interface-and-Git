@@ -263,6 +263,11 @@ a {
     padding-right: 0;
 }
 
+.aboutabout {
+    padding: 2%;
+    border-bottom: dotted black;
+}
+
 footer {
     width: 100%;
     background: black;
