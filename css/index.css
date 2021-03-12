@@ -268,19 +268,47 @@ a {
     border-bottom: dotted black;
 }
 
+.strategy {
+    padding: 2%;
+    border-bottom: dotted black;
+}
+
+.work {
+    padding: 2%;
+    border-bottom: dotted black;
+}
+
+.places {
+    padding: 2%;
+    border-bottom: dotted black;
+}
+
+.collab {
+    padding: 2%;
+    border-bottom: dotted black;
+}
+
 .learn {
     width: 15%;
     padding: 1%;
     border: 3px solid black;
     border-radius: 15px;
+    margin-top: 2%;
+    margin-bottom: 2%;
     display: flex;
     justify-content: center;
+}
+
+.bottom-about {
+    margin-top: 5%;
+    padding: 1%;
 }
 
 footer {
     width: 100%;
     background: black;
     font-weight: normal;
+    margin-top: 5%;
 }
 
 footer nav {
