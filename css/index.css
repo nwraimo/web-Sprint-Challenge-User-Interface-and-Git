@@ -268,6 +268,15 @@ a {
     border-bottom: dotted black;
 }
 
+.learn {
+    width: 15%;
+    padding: 1%;
+    border: 3px solid black;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+}
+
 footer {
     width: 100%;
     background: black;
